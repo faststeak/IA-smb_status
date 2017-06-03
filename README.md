@@ -1,6 +1,6 @@
 # IA-smb_status V1.0
 
-This Input Add-on runs a PowerShell script to query the SMB configuration of Windows systems.
+This Input Add-on runs a PowerShell script to query the SMB configuration of Windows systems. It also has PowerShell  inputs for environments that have restricted unsigned PowerShell scripts.
 
 ## Installation
 
